@@ -1,0 +1,6 @@
+.Leche
+.Pan
+.Leche
+.Tomate
+.Cebolla
+.Queso Cremoso
